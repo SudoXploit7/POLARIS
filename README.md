@@ -40,10 +40,9 @@ $ python main.py --policy data/sample_policies/isms_policy.txt --framework nist_
  │ RESPOND  │     2 │       1 │       1 │   50.00% │
  └──────────┴───────┴─────────┴─────────┴──────────┘
 ```
+<img width="946" height="439" alt="Screenshot 2026-05-25 011433" src="https://github.com/user-attachments/assets/a4310ffa-f680-4956-a2c3-afd229ce4792" />
 
-> **📸 Screenshot placeholder** — After your first successful run, replace this block with a real terminal screenshot.  
-> Suggested path: `docs/screenshots/terminal_demo.png`  
-> Then add: `![Terminal Demo](docs/screenshots/terminal_demo.png)`
+<img width="712" height="242" alt="Screenshot 2026-05-25 011442" src="https://github.com/user-attachments/assets/b233f94f-90a9-4e14-90c3-8289dbd55186" />
 
 ---
 
